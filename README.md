@@ -260,6 +260,9 @@ plt.show()
   
   ![Merged HSV](https://github.com/user-attachments/assets/ffa9a628-fdda-4d03-80aa-25595878255e)
 
+
+
+
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
 
